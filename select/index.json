@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛と飢え",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-09T19:30:11.721874Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛と飢え",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_愛と飢え_藍月なくる.txt"
+    }
+  ]
+}
